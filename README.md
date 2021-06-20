@@ -1,6 +1,6 @@
 # studyMusicTheoryDescriptionTest
 
-## 音階
+## 音名と音階
 
 通常イメージするもの
 
@@ -14,11 +14,25 @@
   - `B` -> シ
   - `C` -> ド
 
-### オクターブ
+### 十二平均律
+
+1度(ルート、)から8度までを12分割したもの
 
 ```
-  C -----------------------> C
+  C ----------------------> C
 ```
+
+### 脱線
+
+[音楽と数学の色々](https://gakuen.gifu-net.ed.jp/~contents/museum/music/page52_0.html#MUS_INDEX)
+
+#### 平均律と純正律
+
+- [平均律](https://ja.m.wikipedia.org/wiki/平均律)
+- [純正律](https://ja.m.wikipedia.org/wiki/純正律)
+- [平均律と純正律って？｜サウンドハウス](https://www.soundhouse.co.jp/contents/staff-blog/index?post=499)
+
+
 
 ## ギタータブ
 
